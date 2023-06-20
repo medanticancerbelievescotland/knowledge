@@ -1,6 +1,3 @@
-Link to our flyer: 
-https://drive.google.com/file/d/1GFRNyziRpym2TO8FozySe-i8AbDiA6OK/view?usp=drive_link
-
 The preferred route of administration is sublingual. However, the oils can also be lubricated on the skin, rectally administered (by mixing it with for example coconut oil, 0.1ml RSO oil with 1ml coconut oil) or taken alongside with food.
 The first 2 – 3 weeks when starting the treatment with the RSO-oil are often quite difficult for some people, as your body has to build up tolerance. Start in the first week with a small amount of 0.02 ml (weight (gram) and volume (ml) are the same of the oil), in order to help your body get used to it. The second week you could try to slowly build up and increase the amount until the desired effect is obtained or you can try to follow a treatment example in our folder. The gradual dose increase by increments is taken until the desired results are obtained.
 The RSO-oil has an onset of action of approximately 0.5 to 1 hours and peak effect at 2 to 4 hours. Also around half of the daily intake can best be done before sleeping. Duration of action for psychoactive effects is 4 to 6 hours, but the appetite stimulant effect may continue for 24 hours or longer after administration.
@@ -8,11 +5,14 @@ Feeling drowsy, tired and sleepy is a normal reaction. Sleeping 8 – 10 hours a
 If you do not feel well after intake (nausea or dizziness), then you could take a glass of water with honey or anything sweet. This will help to recover faster from nausea or dizziness induced by the sudden lower blood pressure after oil intake. Still, if this does not help sufficiently then the best thing to do is to take a lower dose for a couple of days before increasing again.
 
 
-Rick Simpson dosage 1 ml, 90 days (figure A, page 11): Start with 0.02 ml to get used to the oil and build it up to achieve a dose of 1 ml/day. Three possible approaches, moderate increase in dosage will allow you to reach the 1 ml/day in ±60 days, leaving 30 days for a daily administration of 1ml/day. You could also go faster or slower. Downside: it requires increasing the dose daily, which can be very difficult. Most people will not be able to continuously increase the dose each day, but can try to stay within a certain zone (fast, regular or slow).
+Rick Simpson dosage 1 ml, 90 days (figure A in flyer, page 11): Start with 0.02 ml to get used to the oil and build it up to achieve a dose of 1 ml/day. Three possible approaches, moderate increase in dosage will allow you to reach the 1 ml/day in ±60 days, leaving 30 days for a daily administration of 1ml/day. You could also go faster or slower. Downside: it requires increasing the dose daily, which can be very difficult. Most people will not be able to continuously increase the dose each day, but can try to stay within a certain zone (fast, regular or slow). 
+Calculate the dosage for a certain day figure A, use: Dosage(d) = Starting Dosage + (Increase Rate * day), where Starting Dosage is 0.02 ml and Increase Rate is 0.0163 ml/day.
 
-Alternative Rick Simpson approach (figure B, page 11): slower dosage start in the first 60 days. This is an alternatvie approach for consuming 60 ml of the RSO-oil to make the first 60 days easier with modest dosage increments. Start with 0.02 ml and double the dosage every 4th or 5th day with the first 10 ml. Then, with every next 20 ml, the dose increment increase more. The final 30 ml are meant to have a daily intake of 1 ml/day.
+Alternative Rick Simpson approach (figure B in flyer, page 11): slower dosage start in the first 60 days. This is an alternatvie approach for consuming 60 ml of the RSO-oil to make the first 60 days easier with modest dosage increments. Start with 0.02 ml and double the dosage every 4th or 5th day with the first 10 ml. Then, with every next 20 ml, the dose increment increase more. The final 30 ml are meant to have a daily intake of 1 ml/day.
+Calculate the dosage for a certain day figure B, use: Dosage(d) = Starting Dosage + (Increase Rate * day), where Starting Dosage is 0.02 ml and Increase Rate is 0.0163 ml/day.
 
-Preventive or Custom treatment approach (figure C, page 11) is suitable for people pursuing either a more modest dosage intake or as a preventive treatment and is more comfortable compared to the above treatments. Start with 0.02 ml and increase with 0.02 ml every 4th or 5th day with the first 10ml, until the recommended maximum of 0.1 to 0.3 ml/day (dashed area). The goal is to continue with this daily amount for the remaining 50 ml. 
+Preventive or Custom treatment approach (figure C in flyer, page 11) is suitable for people pursuing either a more modest dosage intake or as a preventive treatment and is more comfortable compared to the above treatments. Start with 0.02 ml and increase with 0.02 ml every 4th or 5th day with the first 10ml, until the recommended maximum of 0.1 to 0.3 ml/day (dashed area). The goal is to continue with this daily amount for the remaining 50 ml. 
+Calculate the dosage for a certain day figure C, use: Dosage(d) = Starting Dosage + (Step Increase * (day / 4)), where Starting Dosage is 0.02 ml , Step Increase is 0.0187 ml.
 
 The effects, the number and timing of doses will vary between patients. Therefore, start with a low amount and slowly build this up depending on how you feel with it.
 
@@ -55,8 +55,9 @@ Medical research and THC
 Current lab research indicates that cannabinoids can trigger cell death in tumours, stop it from dividing, prevent new blood vessels to develop and reduce cancer cell metastasis. 
 Our Products can be used for various health conditions, such as improving sleep, appetite and reducing pain. However, we recommend consulting your doctor and do your own research.
 
+Link to our flyer: 
+https://drive.google.com/file/d/1GFRNyziRpym2TO8FozySe-i8AbDiA6OK/view?usp=drive_link
+
+
 Contact details:
 email: info@rso-amsterdam.com or WhatsApp on +31645800130 (no calls or texts possible)
-
-
-'''
