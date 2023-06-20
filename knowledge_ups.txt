@@ -1,44 +1,28 @@
-UPS is a very reliable and fast shipping method offering standard and express deliveries. You would need to create your own label as if you were sending it from Amsterdam to your address. Simply send the created label (and invoice in case of an UK address) to us by email. This only takes a few minutes, but your order can be delivered much faster this way. 
-We can also assist you by chat during this process, if you need any help, please reach out to us on Whatsapp, chat or email!
-
-UPS Video tutorial:
-https://drive.google.com/file/d/1UHLUcCoeR0P_avAnolwvXZBPIFOLo8kR/view?usp=sharing
+UPS is a very reliable and fast shipping method offering standard and express deliveries. You would need to create your own label, act as you are sending it from Amsterdam to your own address. Simply send the created label (and invoice in case of an UK address) to us by email. This only takes a few minutes, but your order can be delivered much faster this way. 
 
 Step-by-step UPS explanation:
 Make sure you do not use a VPN
 First go to www.ups.com
 Select "Quick Started" and then select "Ship"
 On the shipping page, fill out the details from below, make sure that the address is in the Netherlands as stated below.
-Fill in your own address
-Fill in parcel details (weight and dimensions) as stated below
-Select the shipping delivery (the UPS Standard is often delivered within one week)
-Within the International Shipping details, make sure that you select "this is a gift" and "promotional skin care oil"
-If you are located in the UK, make sure to create an International Form (Invoice), hit the yellow button "Get Started" to begin. Now fill in the details as stated below
+Fill in your own address. 
+Fill in parcel details (weight and dimensions) as stated below.
+Select the shipping delivery (the UPS Standard is often delivered within one week).
+Within the International Shipping details, make sure that you select "this is a gift" and "promotional skin care oil".
+If you are located in the UK, make sure to create an International Form (Invoice), hit the yellow button "Get Started" to begin. Now fill in the details as stated below.
 Review if the addresses are filled in correctly and pay the label.
-Save the UPS Label on your computer (Press Print Now and choose to save it to your computer)
+Save the UPS Label on your computer (Press Print Now and choose to save it to your computer).
 If you are from the UK, save the UPS Export Form (Also choose Print Export Form and then save it) invoice that you have created in step 7.
-Please email us the UPS Label (and Export Form) to info@rso-amsterdam.com
-You will receive a confirmation message from us (usually within 1 working day)
-
-Details of input:
-Our shipping address (use this address)
-Anton Beugelen
-Panamalaan 34b
-1019 AZ
-AMSTERDAM
-NETHERLANDS
-email: [YOUR OWN EMAIL]
-phone: 0613584563
+Please email us the UPS Label (and Export Form) to info@rso-amsterdam.com.
+You will receive a confirmation message from us (usually within 1 working day).
 
 
-Your Address (Example)
-John Doe
-112 Saltley Rd
-BIRMINGHAM 
-B7 4TE
-UNITED KINGDOM
-email: [YOUR OWN EMAIL]
-phone: [YOUR OWN PHONE]
+Use this address as the sender:
+Anton Beugelen, Panamalaan 34b, 1019 AZ, AMSTERDAM, NETHERLANDS,
+email: [YOUR OWN EMAIL], phone: 0613584563
+
+
+Use your own address as the recipient.
 
 Parcel weight: 0.3 kg
 Parcel size: 25x16x3 cm (for most orders, if large order, please contact us beforehand)
@@ -48,8 +32,8 @@ This is a gift
 What are you shipping?  ->
 promotional skin care oil
 
-International Forms and Documents; 
-Select yellow button “Get Started“
+For UK customers, create an invoice with the "International Forms and Documents" section; 
+Select yellow button “Get Started“:
 - Description of Goods = promotional skin care oil
 - Unit of Measure = Pieces
 - Unit Value = 19 EUR
@@ -59,6 +43,13 @@ Select yellow button “Get Started“
 - Number of Units (Quantity)  = 1
 
 
+If you find this difficult, then we can also assist you by chat during this process. Please reach out to us on Whatsapp, chat or email!
+
+We also have an tutorual UPS Video found here:
+https://drive.google.com/file/d/1UHLUcCoeR0P_avAnolwvXZBPIFOLo8kR/view?usp=sharing
+
+
 Contact details:
 email: info@rso-amsterdam.com or WhatsApp on +31645800130 (no calls or texts possible)
 
+Your task is to give a detailed assistence to customers to create such a label.
